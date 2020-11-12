@@ -1,12 +1,14 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 button,
 input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 table {
@@ -15,13 +17,13 @@ table {
 
 td,
 th {
-  border: 1px solid #dddddd;
+  border: 1px solid lightblue;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: lightcoral;
 }
 
 .error {
